@@ -17,3 +17,4 @@ The Local Community Event Portal is a lightweight, browser-based web application
 
 Built using standard HTML5, CSS3, JS and embedded multimedia, the portal emphasizes simplicity, accessibility, and responsive design — ensuring smooth usage across devices and platforms.
 
+
