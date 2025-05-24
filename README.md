@@ -1,8 +1,9 @@
-# Digital-Nurture4.0
+<u># Digital-Nurture4.0</u>
 
 <h1>📌 Project Title: Local Community Event Portal</h1>
 <h2>📝 Description:</h2>
-The Local Community Event Portal is a lightweight, browser-based web application designed to serve the residents of a city or town. Commissioned by the local city council, the portal enables users to:
+The Local Community Event Portal is a lightweight, browser-based web application designed to serve the residents of a city or town. Commissioned by the local city council, the portal enables users to,
+<br><br>
 
 ✅Browse and learn about upcoming community events
 
