@@ -1,4 +1,4 @@
-<u># Digital-Nurture4.0</u>
+<h1># Digital-Nurture4.0</h1>
 
 <h1>📌 Project Title: Local Community Event Portal</h1>
 <h2>📝 Description:</h2>
